@@ -12,7 +12,7 @@ I've been in IT for 25 years, starting in support and moving to network system a
 ---
 layout: false
 .left-column[
-  ## What is Docs-as-code?
+  ## What is it?
 ]
 .right-column[
   A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS, featuring:
@@ -292,7 +292,7 @@ three question marks separate slide content from slide notes:
 ```
 Slide 1 content
 
-*???
+???
 
 Slide 1 notes
 

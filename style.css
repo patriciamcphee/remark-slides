@@ -41,6 +41,9 @@ code {
   float: right;
   width: 47%;
 }
+.pull-right-footnote {
+  float: right;
+}
 .pull-right ~ p {
   clear: both;
 }
@@ -53,8 +56,8 @@ code {
 }
 .inverse {
   background: #264653;
-  color: #777872;
-  text-shadow: 0 0 20px #333;
+  color: #ccc;
+  text-shadow: 0 0 20px #999;
 }
 .inverse h1, .inverse h2 {
   color: #f3f3f3;
@@ -79,9 +82,9 @@ code {
   padding: 1px 20px;
   height: 90px;
   width: 120px;
-  -moz-box-shadow: 0 0 10px #777;
-  -webkit-box-shadow: 0 0 10px #777;
-  box-shadow: 0 0 10px #777;
+  -moz-box-shadow: 0 0 10px #999;
+  -webkit-box-shadow: 0 0 10px #999;
+  box-shadow: 0 0 10px #999;
 }
 #slide-how .slides .first {
   background: #fff;
@@ -98,7 +101,7 @@ code {
 
 /* Two-column layout */
 .left-column {
-  color: #777;
+  color: #999;
   width: 20%;
   height: 92%;
   float: left;

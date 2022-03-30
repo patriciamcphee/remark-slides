@@ -57,7 +57,7 @@ code {
 .inverse {
   background: #264653;
   color: #ccc;
-  text-shadow: 0 0 20px #777;
+  text-shadow: 0 0 20px #999;
 }
 .inverse h1, .inverse h2 {
   color: #f3f3f3;

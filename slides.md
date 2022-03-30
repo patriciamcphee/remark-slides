@@ -2,10 +2,10 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-#Patricia McPhee
-[UX Technical Writer]
+#Docs-as-Code Framework
+[Patricia McPhee - UX Technical Writer]
 .pull-right-footnote[
-I've been in IT for 25 years, starting in support and moving to network system administration. However, for the past 20 years, I've been a Technical Writer taking the guesswork out of complex technical content. I started my technical writing career on the Human Factors (Human Centered Design & Engineering) team at a large telecommunications company. Therefore, I learned how to uncover and solve user experience (UX) challenges early in my career.]
+overview snippet of docs-as-code and why it's important for technical writers to learn]
 
 ---
 ## What is Docs-as-code and why should I be using it?

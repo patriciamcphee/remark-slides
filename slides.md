@@ -2,18 +2,17 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-#remark + Replit
-[ri-mahrk]
-.footnote[
-Markdown is lifted directly from remark's website with slight modifications. Replace with your own content. The default markdown is there to give you an example of what is possible.
-]
+#Patricia McPhee
+[UX Technical Writer]
+.pull-right-footnote[
+I've been in IT for 25 years, starting in support and moving to network system administration. However, for the past 20 years, I've been a Technical Writer taking the guesswork out of complex technical content. I started my technical writing career on the Human Factors (Human Centered Design & Engineering) team at a large telecommunications company. Therefore, I learned how to uncover and solve user experience (UX) challenges early in my career.]
 
 ---
-## What is it and why should I be using it?
+## What is Docs-as-code and why should I be using it?
 ---
 layout: false
 .left-column[
-  ## What is it?
+  ## What is Docs-as-code?
 ]
 .right-column[
   A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS, featuring:

@@ -32,7 +32,7 @@ code {
   border-radius: 5px;
 }
 .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
-.remark-code-line-highlighted     { background-color: #373832; }
+.remark-code-line-highlighted     { background-color: #264653; }
 .pull-left {
   float: left;
   width: 47%;
@@ -40,6 +40,9 @@ code {
 .pull-right {
   float: right;
   width: 47%;
+}
+.pull-right-footnote {
+  float: right;
 }
 .pull-right ~ p {
   clear: both;
@@ -52,9 +55,9 @@ code {
   padding: 15px;
 }
 .inverse {
-  background: #272822;
-  color: #777872;
-  text-shadow: 0 0 20px #333;
+  background: #264653;
+  color: #ccc;
+  text-shadow: 0 0 20px #777;
 }
 .inverse h1, .inverse h2 {
   color: #f3f3f3;
@@ -79,9 +82,9 @@ code {
   padding: 1px 20px;
   height: 90px;
   width: 120px;
-  -moz-box-shadow: 0 0 10px #777;
-  -webkit-box-shadow: 0 0 10px #777;
-  box-shadow: 0 0 10px #777;
+  -moz-box-shadow: 0 0 10px #999;
+  -webkit-box-shadow: 0 0 10px #999;
+  box-shadow: 0 0 10px #999;
 }
 #slide-how .slides .first {
   background: #fff;
@@ -98,7 +101,7 @@ code {
 
 /* Two-column layout */
 .left-column {
-  color: #777;
+  color: #999;
   width: 20%;
   height: 92%;
   float: left;

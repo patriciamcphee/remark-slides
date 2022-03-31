@@ -8,7 +8,7 @@ class: center, middle, inverse
 overview snippet of docs-as-code and why it's important for technical writers to learn]
 
 ---
-## What is Docs-as-code and why should I be using it?
+## What is Docs-as-code and why it's important for technical writers to learn it?
 ---
 layout: false
 .left-column[

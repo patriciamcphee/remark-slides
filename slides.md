@@ -15,17 +15,7 @@ layout: false
   ## What is it?
 ]
 .right-column[
-  A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS, featuring:
-
-- Markdown formatting, with smart extensions
-
-- Presenter mode, with cloned slideshow view
-
-- Syntax highlighting, supporting a range of languages
-
-- Slide scaling, thus similar appearance on all devices / resolutions .red[*]
-
-- Touch support for smart phones and pads, i.e. swipe to navigate slides
+  Docs-as-code applies software development processes and tools to technical documentation.  Content is written in a plain text format using markdown rather than a strict markup language like XML. The content is then published with a static site generator rather than an expensive publishing system.
 
 .footnote[.red[*] At least browsers try their best]
 ]
